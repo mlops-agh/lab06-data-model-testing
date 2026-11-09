@@ -14,6 +14,7 @@ dependencies = [
     "jupyter",
     "matplotlib",
     "pandas",
+    "pre-commit>=4.7.0",
     "ruff",
     "scikit-learn",
     "sentence-transformers",
